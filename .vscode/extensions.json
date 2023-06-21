@@ -1,11 +1,10 @@
 {
     "recommendations": [
-        "vscjava.vscode-java-pack",
-        "vscjava.vscode-java-debug",
+        "esbenp.prettier-vscode",
+        "xabikos.javascriptsnippets",
         "Karye.sessionlogger",
-        "vscjava.vscode-java-dependency",
-        "eliostruyf.vscode-hide-comments",
-        "redhat.java"
+        "ritwickdey.liveserver",
+        "eliostruyf.vscode-hide-comments",        
             ]
 }
 
